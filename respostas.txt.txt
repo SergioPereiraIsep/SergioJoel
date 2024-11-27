@@ -1,3 +1,10 @@
 f) 1- logo ou banner. 2-Titulos, 3- Badges 4) Features
 
 
+G) Merge:é uma operação fundamental de junção de 2 branches que reconcilia as várias alterações feitas numa coleção de ficheiros
+-Automático- é processado apenas pelo software (através de um algoritmo)
+-Manual-é necessária ação do utilizador para perceber as mudanças a aplicar
+
+
+
+
