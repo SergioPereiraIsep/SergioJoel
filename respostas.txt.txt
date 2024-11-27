@@ -8,3 +8,14 @@ G) Merge:é uma operação fundamental de junção de 2 branches que reconcilia as vá
 
 
 
+H) verificar staged : git status
+
+
+
+J)git log: Mostra o histórico de commits do repositório.
+--follow: Faz com que o Git siga o histórico do arquivo através de renomeações. Sem esta opção, o histórico só mostraria commits até o ponto em que o arquivo foi renomeado.
+eu_script.py: Especifica o arquivo para o qual queremos ver o histórico de commits.
+
+
+
+
